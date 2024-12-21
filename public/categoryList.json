@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "../src/assets/icons/accounts.png",
+    "title": "Account & Finance",
+    "jobs": "300"
+  },
+  {
+    "icon": "../src/assets/icons/creative.png",
+    "title": "Creative Design",
+    "jobs": "100+"
+  },
+  {
+    "icon": "../src/assets/icons/marketing.png",
+    "title": "Marketing & Sales",
+    "jobs": "150"
+  },
+  {
+    "icon": "../src/assets/icons/chip.png",
+    "title": "Engineering Job",
+    "jobs": "225"
+  }
+]
